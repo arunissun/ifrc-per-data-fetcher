@@ -1,0 +1,33 @@
+# JavaScript - ignore all
+src/
+data/
+node_modules/
+package.json
+package-lock.json
+*.js
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.uv/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep data_python but ignore large files if needed
+# data_python/per-assessments.json
