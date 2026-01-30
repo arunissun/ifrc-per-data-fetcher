@@ -5,6 +5,8 @@ node_modules/
 package.json
 package-lock.json
 *.js
+README.md
+.github/
 
 # Python
 __pycache__/
